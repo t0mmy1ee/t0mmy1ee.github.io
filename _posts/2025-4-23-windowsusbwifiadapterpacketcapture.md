@@ -13,4 +13,4 @@ image:
 ---
 
 本篇主要来源于委托测试需求，经实测有效。  
-具体引用“网洞”方案，[下载 PDF](/assets/Windows_USB_Wi-Fi_Adapter_Packet_Capture_Guide_v1.5.pdf)
+具体引用“网洞”方案，[下载 PDF](/assets/files/Windows_USB_Wi-Fi_Adapter_Packet_Capture_Guide_v1.5.pdf)
