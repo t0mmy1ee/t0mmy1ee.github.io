@@ -3,8 +3,8 @@ title: Windows USB网卡空口抓包
 description: 主要说明了Wifi空口抓包的方法
 author: shankh
 date: 2025-4-23 18:18:00 +0800
-categories: [检测工具]
-tags: [Wifi, 抓包, 空口抓包, WinSniffer]
+categories: [检测工具, 抓包]
+tags: [Wifi, 空口抓包, WinSniffer]
 #pin: true
 #math: true
 #mermaid: true
