@@ -6,6 +6,11 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
+shankh:
+  name: 单康恒
+  twitter:
+  url: 
+
 tianyuan:
   name: 田原
   twitter:
@@ -16,13 +21,18 @@ tianxp:
   twitter:
   url: 
 
-shankh:
-  name: 单康恒
+wangxin:
+  name: 王鑫
   twitter:
   url: 
 
 yangchi:
   name: 杨驰
+  twitter:
+  url: 
+
+zhangqian:
+  name: 章倩
   twitter:
   url: 
 

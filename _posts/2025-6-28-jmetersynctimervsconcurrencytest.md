@@ -3,8 +3,8 @@ title: JMeter同步定时器与并发关系测试
 description: 分析了并发测试时JMeter同步定时器的设置对测试的影响
 author: yangchi
 date: 2025-6-28 13:43:00 +0800
-categories: [检测工具]
-tags: [JMeter, 性能测试, 并发测试, 工具研究]
+categories: [检测工具, 性能测试]
+tags: [JMeter, 并发测试, 工具研究]
 #pin: true
 #math: true
 #mermaid: true
