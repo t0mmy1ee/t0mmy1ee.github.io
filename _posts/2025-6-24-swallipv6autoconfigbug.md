@@ -1,9 +1,9 @@
 ---
-title: ipv6协议一致性测试中autoconfig 2.2
-description: 解决软件WAF在ipv6协议一致性测试autoconfig 2.2测试项中遇到的问题
+title: IPv6协议一致性测试中autoconfig 2.2
+description: 解决软件WAF在IPv6协议一致性测试autoconfig 2.2测试项中遇到的问题
 author: wangxin
 date: 2025-6-24 17:41:00 +0800
-categories: [测试工具]
+categories: [检测工具, IPv6]
 tags: [IPv6协议一致性, IxANVL]
 #pin: true
 #math: true
