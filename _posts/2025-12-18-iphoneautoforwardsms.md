@@ -4,7 +4,7 @@ description: 利用iPhone“快捷指令-自动化”的功能实现自动转发
 author: tianxp
 date: 2025-12-18 15:28:00 +0800
 categories: [其他]
-tags: [iPhone, 小技巧]
+tags: [iPhone, 短信转发]
 #pin: true
 #math: true
 #mermaid: true
