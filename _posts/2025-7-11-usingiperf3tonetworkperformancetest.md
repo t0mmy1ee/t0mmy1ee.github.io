@@ -13,19 +13,19 @@ image:
 ---
 Windows系统下载iperf3安装包后无需安装直接解压即可，通过CMD进入安装目录使用  
 下载链接：https://iperf.fr/iperf-download.php  
-![](/assets/img2025-12-24-20-09-29.png)  
+![](/assets/img/2025-12-24-20-09-29.png)  
 准备两台可以ping通的PC，分别作为服务端和客户端  
 设置服务端：iperf3 -s（默认端口为5201，可通过 -p 指定端口）  
-![](/assets/img2025-12-24-20-09-50.png)  
+![](/assets/img/2025-12-24-20-09-50.png)  
 设置客户端:iperf3 -c 服务端IP（默认为tcp协议，可通过 -u 设置为udp协议）  
-![](/assets/img2025-12-24-20-10-08.png)  
+![](/assets/img/2025-12-24-20-10-08.png)  
 举例：udp测试-吞吐  
 服务端：通过-p设置端口为5000  
-![](/assets/img2025-12-24-20-10-28.png)  
+![](/assets/img/2025-12-24-20-10-28.png)  
 客户端：通过-c 设置为udp协议，-p 连接服务端端口5000，-P 设置线程数，-l 设置只接受 1 次来自 Client 端的测试然后退出，-b 设置测试带宽，-t设置测试时间  
-![](/assets/img2025-12-24-20-12-34.png)  
+![](/assets/img/2025-12-24-20-12-34.png)  
 从服务端看吞吐量（Bitrate）、延迟（Jitter）和丢包情况（Lost/Total Datagrams）  
-![](/assets/img2025-12-24-20-13-00.png)  
+![](/assets/img/2025-12-24-20-13-00.png)  
 ——其他常用参数  
 ```text  
 -p, --port #，Server 端监听、Client 端连接的端口号； 
