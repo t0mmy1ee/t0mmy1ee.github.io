@@ -16,6 +16,6 @@ tags: [iPhone, 越狱, 小技巧]
 实测iPhone7 plus（IOS版本14.1 已越狱）  
 实测Cydia可用源和版本如下：  
 源：https://repo.cydiabc.top/  
-![](/assets/img2025-12-24-20-19-44.png)  
+![](/assets/img/2025-12-24-20-19-44.png)  
 完成后就可以使用爱思助手随意安装ipa包了  
-![](/assets/img2025-12-24-20-21-47.png)
+![](/assets/img/2025-12-24-20-21-47.png)
